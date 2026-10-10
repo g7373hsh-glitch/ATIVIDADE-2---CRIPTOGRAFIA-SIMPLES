@@ -1,0 +1,5 @@
+=== LOG DE CRIPTOGRAFIA ===
+senha codificada: qksfiiexfmjispn
+SHIFT: 9
+Tipo de sequencia: 3
+Letras: 15
